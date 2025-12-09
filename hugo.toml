@@ -17,3 +17,30 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     description = "Digital Forensics & Incident Response" # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
     favicon = "/icons/favicon.png"
+
+
+
+
+
+
+    # Links to your socials.  Comment or delete any you don't need/use. 
+    # discord_url = "https://discord.com"
+    email_url = "mailto:tashnim@asgar.net"
+    # facebook_url = "https://facebook.com"
+    # flickr_url = "https://flickr.com"
+    github_url = "https://github.com"
+    # gitlab_url = "https://gitlab.com"
+    # instagram_url = "https://instagram.com"
+    linkedin_url = "https://linkedin.com"
+    # mastodon_url = "https://mastodon.social"
+    # matrix_url = "https://matrix.org"
+    # telegram_url = "https://telegram.org"
+    # tryhackme_url = "https://tryhackme.com"
+    # twitter_url = "https://twitter.com"
+    x_url = "https://x.com"
+    # xmpp_url = "https://xmpp.org"
+    # youtube_url = "https://youtube.com"
+    # signal_url = "https://signal.org"
+    # bluesky_url = "https://bsky.app"
+
+    buymeacoffee_url = "https://github.com/sponsors/lance-terminal"
