@@ -20,10 +20,10 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     front_page_content = ["about"] # Equivalent to the default value, add page bundle names to include them on the front page.
     # change front page content to post once live
 
-    
+
     menu = [
-        {Name = "About", URL = "/about/", HasChildren = false}
-    #    {Name = "Posts", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 1}
+        {Name = "About", URL = "/asgar/about/", HasChildren = false}
+    #    {Name = "Posts", URL = "/asgar/posts/", Pre = "Recent", HasChildren = true, Limit = 1}
     ]
 
 
