@@ -16,4 +16,4 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     remote_brand_image = 'https://avatars.githubusercontent.com/u/101709186?v=4' # path to a remote file
     description = "Digital Forensics & Incident Response" # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
-    favicon = "https://github.com/lance-terminal/asgar/blob/main/static/icons/favicon.png"
+    favicon = "/icons/favicon.png"
