@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about/_index.md",
+                "file": "content/posts/post-2025-12-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "post-2025-12-26"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/about/_index.md",
+                "file": "content/posts/post-2025-12-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _index"
+              "title": "Backlinks for post-2025-12-26"
             }
           },
           {
@@ -169,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,8 +182,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "772ed54486a88b05",
+  "active": "aad9e83be747f1df",
   "lastOpenFiles": [
+    "content/about/_index.md",
+    "content/posts/post-2025-12-26.md",
     "content/archives",
     "content/projects",
     "content/posts"
