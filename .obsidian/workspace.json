@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/achievements/placeholder.md",
+                "file": "content/resources/placeholder.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/achievements/placeholder.md",
+                "file": "content/resources/placeholder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,8 +184,8 @@
   },
   "active": "dac6806992c15b54",
   "lastOpenFiles": [
-    "content/archives/placeholder.md",
     "content/achievements/placeholder.md",
+    "content/archives/placeholder.md",
     "content/posts/post-2025-12-26.md",
     "content/projects/placeholder.md",
     "content/resources/placeholder.md",
