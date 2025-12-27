@@ -184,6 +184,9 @@
   },
   "active": "dac6806992c15b54",
   "lastOpenFiles": [
+    "content/research/placeholder.md",
+    "content/resources/placeholder copy.md",
+    "content/research",
     "public/resources/placeholder/index.html",
     "public/resources/placeholder",
     "public/resources/index.xml",
@@ -194,8 +197,6 @@
     "public/fonts/KaTeX_Math-BoldItalic.ttf",
     "public/fonts/KaTeX_SansSerif-Bold.woff",
     "public/fonts/KaTeX_Main-BoldItalic.ttf",
-    "public/fonts/KaTeX_Caligraphic-Regular.woff2",
-    "public/fonts/KaTeX_Size2-Regular.woff2",
     "public/katex/README.md",
     "public/icons/favicon.png",
     "public/icons/copy_success.svg",
