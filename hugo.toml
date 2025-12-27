@@ -13,14 +13,11 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 
 [params]
     brand = "Asgar"     # name of site - appears in the sidebar
-    remote_brand_image = 'https://avatars.githubusercontent.com/u/101709186?v=4' # path to a remote file
-    description = "Digital Forensics & Incident Response" # Used as default meta description if not specified in front matter
-    dark_mode = true                      # optional - defaults to false
+    remote_brand_image = 'https://avatars.githubusercontent.com/u/101709186?v=4' # profile image in website
+    description = "Digital Forensics & Incident Response" # description under title
+    dark_mode = true
     favicon = "/icons/favicon.png"
-    front_page_content = ["posts"] # Equivalent to the default value, add page bundle names to include them on the front page.
-    # change front page content to post once live
-
-
+    front_page_content = ["posts"]
     menu = [
         {Name = "About", URL = "/about/", HasChildren = false},
         {Name = "Resources", URL = "/resources/", HasChildren = false},
