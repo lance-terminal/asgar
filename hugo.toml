@@ -23,7 +23,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 
     menu = [
         {Name = "About", URL = "/about/", HasChildren = false},
-        {Name = "Archive", URL = "/resources/", HasChildren = false}
+        {Name = "Archive", URL = "/resources/", HasChildren = false},
         {Name = "Posts", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 1},
         {Name = "Projects", URL = "/projects/", HasChildren = false}
     ]
