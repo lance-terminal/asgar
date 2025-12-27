@@ -10,13 +10,6 @@
     <atom:link href="http://localhost:57384/asgar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Brand New to Cyber?</title>
-      <link>http://localhost:57384/asgar/achievements/placeholder/</link>
-      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57384/asgar/achievements/placeholder/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Brand New to Cyber?</title>
       <link>http://localhost:57384/asgar/posts/post-2025-12-26/</link>
       <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:57384/asgar/posts/post-2025-12-26/</guid>
@@ -27,6 +20,13 @@
       <link>http://localhost:57384/asgar/projects/placeholder/</link>
       <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:57384/asgar/projects/placeholder/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Brand New to Cyber?</title>
+      <link>http://localhost:57384/asgar/resources-copy/placeholder/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:57384/asgar/resources-copy/placeholder/</guid>
       <description></description>
     </item>
     <item>
