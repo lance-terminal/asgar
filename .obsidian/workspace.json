@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/resources/placeholder.md",
+                "file": "content/posts/post-2025-12-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "placeholder"
+              "title": "post-2025-12-26"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/resources/placeholder.md",
+                "file": "content/posts/post-2025-12-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for placeholder"
+              "title": "Backlinks for post-2025-12-26"
             }
           },
           {
@@ -184,7 +184,12 @@
   },
   "active": "dac6806992c15b54",
   "lastOpenFiles": [
+    "content/about/achievements",
+    "content/resource/placeholder.md",
+    "content/resource",
     "content/achievements/placeholder.md",
+    "content/resources/placeholder.md",
+    "content/resources",
     "content/achievements",
     "public/resources-copy/placeholder/index.html",
     "public/resources-copy/placeholder",
@@ -196,10 +201,7 @@
     "content/archives/placeholder.md",
     "content/posts/post-2025-12-26.md",
     "content/projects/placeholder.md",
-    "content/resources/placeholder.md",
     "public/archives/placeholder/index.html",
-    "public/archives/placeholder",
-    "public/archives/untitled/index.html",
     "public/katex/README.md",
     "public/icons/favicon.png",
     "public/icons/copy_success.svg",
