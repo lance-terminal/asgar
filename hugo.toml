@@ -16,7 +16,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     remote_brand_image = 'https://avatars.githubusercontent.com/u/101709186?v=4' # profile image in website
     description = "Digital Forensics & Incident Response" # description under title
     dark_mode = true
-    favicon = "/icons/favicon.png"
+    favicon = "icons/favicon.png"
     front_page_content = ["posts"]
     menu = [
         {Name = "About", URL = "/about/", HasChildren = false},
