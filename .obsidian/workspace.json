@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/post-2025-12-26.md",
+                "file": "content/about/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "post-2025-12-26"
+              "title": "_index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/post-2025-12-26.md",
+                "file": "content/about/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for post-2025-12-26"
+              "title": "Backlinks for _index"
             }
           },
           {
@@ -184,6 +184,10 @@
   },
   "active": "dac6806992c15b54",
   "lastOpenFiles": [
+    "content/posts/post-2025-12-26.md",
+    "content/projects/placeholder.md",
+    "content/resources/placeholder.md",
+    "content/about/_index.md",
     "public/tags/career/index.html",
     "public/tags/career/index.xml",
     "public/tags/career",
@@ -196,8 +200,6 @@
     "public/research",
     "content/research/placeholder.md",
     "content/resources/placeholder copy.md",
-    "content/research",
-    "content/resources/placeholder.md",
     "public/katex/README.md",
     "public/icons/favicon.png",
     "public/icons/copy_success.svg",
@@ -205,9 +207,6 @@
     "content/resource/placeholder.md",
     "content/achievements/placeholder.md",
     "content/resources copy/placeholder.md",
-    "content/archives/placeholder.md",
-    "content/posts/post-2025-12-26.md",
-    "content/projects/placeholder.md",
-    "content/about/_index.md"
+    "content/archives/placeholder.md"
   ]
 }
