@@ -1,4 +1,6 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "static"
+  "attachmentFolderPath": "static",
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true
 }

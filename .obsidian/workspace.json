@@ -182,11 +182,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "772ed54486a88b05",
+  "active": "dac6806992c15b54",
   "lastOpenFiles": [
+    "static/Pasted image 20251230014934.png",
     "static/Pasted image 20251230013742.png",
-    "content/projects/placeholder.md",
     "content/posts/post-2025-12-26.md",
+    "static/attachments",
+    "content/projects/placeholder.md",
     "content/about/_index.md",
     "content/resources/placeholder.md",
     "public/tags/career/index.html",
@@ -198,7 +200,6 @@
     "public/research/placeholder",
     "public/research/index.xml",
     "public/research/index.html",
-    "public/research",
     "content/research/placeholder.md",
     "content/resources/placeholder copy.md",
     "public/katex/README.md",
