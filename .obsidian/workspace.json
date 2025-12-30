@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about/_index.md",
+                "file": "content/posts/post-2025-12-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "post-2025-12-26"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/about/_index.md",
+                "file": "content/posts/post-2025-12-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _index"
+              "title": "Backlinks for post-2025-12-26"
             }
           },
           {
@@ -182,12 +182,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "dac6806992c15b54",
+  "active": "772ed54486a88b05",
   "lastOpenFiles": [
-    "content/posts/post-2025-12-26.md",
+    "static/Pasted image 20251230013742.png",
     "content/projects/placeholder.md",
-    "content/resources/placeholder.md",
+    "content/posts/post-2025-12-26.md",
     "content/about/_index.md",
+    "content/resources/placeholder.md",
     "public/tags/career/index.html",
     "public/tags/career/index.xml",
     "public/tags/career",
