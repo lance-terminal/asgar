@@ -49,7 +49,7 @@
 
   {{ if .Params.featuredImage }}
   <p>
-    <img src="{{.Params.featuredImage}}"><br>
+    <img src="{{ .Params.featuredImage | relURL }}"><br>
   </p>
   {{ end }}
 </div>

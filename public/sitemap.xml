@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/asgar/</loc>
+    <loc>http://localhost:53659/asgar/</loc>
     <lastmod>2025-12-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/asgar/posts/post-2025-12-26/</loc>
+    <loc>http://localhost:53659/asgar/posts/post-2025-12-26/</loc>
     <lastmod>2025-12-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/asgar/tags/career/</loc>
+    <loc>http://localhost:53659/asgar/tags/career/</loc>
     <lastmod>2025-12-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/asgar/posts/</loc>
+    <loc>http://localhost:53659/asgar/posts/</loc>
     <lastmod>2025-12-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/asgar/projects/</loc>
+    <loc>http://localhost:53659/asgar/projects/</loc>
     <lastmod>2025-12-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/asgar/tags/</loc>
+    <loc>http://localhost:53659/asgar/tags/</loc>
     <lastmod>2025-12-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/asgar/projects/placeholder/</loc>
+    <loc>http://localhost:53659/asgar/projects/placeholder/</loc>
     <lastmod>2025-12-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/asgar/about/</loc>
+    <loc>http://localhost:53659/asgar/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/asgar/series/</loc>
+    <loc>http://localhost:53659/asgar/series/</loc>
   </url>
 </urlset>
