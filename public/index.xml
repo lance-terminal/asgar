@@ -2,31 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Asgar</title>
-    <link>http://localhost:49246/asgar/</link>
+    <link>http://localhost:1313/asgar/</link>
     <description>Recent content on Asgar</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:49246/asgar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/asgar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Brand New to Cyber?</title>
-      <link>http://localhost:49246/asgar/posts/post-2025-12-26/</link>
+      <link>http://localhost:1313/asgar/posts/post-2025-12-26/</link>
       <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49246/asgar/posts/post-2025-12-26/</guid>
-      <description>&lt;p&gt;The cybersecurity job market is rough right now. AI hype, a shaky economy, ghost jobs, and endless LinkedIn “wins” make rejection feel personal. If you’re new and struggling to break in, hear this first:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;You’re not broken.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;I’m not here to give resume hacks or interview tricks. What I &lt;em&gt;can&lt;/em&gt; offer is perspective. Everyone enters cybersecurity differently. This is how I got into DFIR—and what actually mattered.&lt;/p&gt;&#xA;&lt;h3 id=&#34;how-it-started&#34;&gt;How It Started&lt;/h3&gt;&#xA;&lt;p&gt;I’ve always liked computers. In high school, I tried to take apart our family PC and learned why static electricity kills hardware. That was our only computer, and replacing it wasn’t an option.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/asgar/posts/post-2025-12-26/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/asgar/static/attachments/Pasted%20image%2020251230014934.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The cybersecurity job market is rough right now. AI hype, a shaky economy, ghost jobs, and endless LinkedIn “wins” make rejection feel personal. If you’re new and struggling to break in, hear this first:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;You’re not broken.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;I’m not here to give resume hacks or interview tricks. What I &lt;em&gt;can&lt;/em&gt; offer is perspective. Everyone enters cybersecurity differently. This is how I got into DFIR—and what actually mattered.&lt;/p&gt;&#xA;&lt;h3 id=&#34;how-it-started&#34;&gt;How It Started&lt;/h3&gt;&#xA;&lt;p&gt;I’ve always liked computers. In high school, I tried to take apart our family PC and learned why static electricity kills hardware. That was our only computer, and replacing it wasn’t an option.&lt;/p&gt;</description>
     </item>
     <item>
       <title>This is placeholder</title>
-      <link>http://localhost:49246/asgar/projects/placeholder/</link>
+      <link>http://localhost:1313/asgar/projects/placeholder/</link>
       <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49246/asgar/projects/placeholder/</guid>
-      <description>&lt;h1 id=&#34;contents-will-come-soon-stay-tuned&#34;&gt;Contents will come soon, stay tuned&lt;/h1&gt;</description>
-    </item>
-    <item>
-      <title>This is placeholder</title>
-      <link>http://localhost:49246/asgar/resources/placeholder/</link>
-      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49246/asgar/resources/placeholder/</guid>
+      <guid>http://localhost:1313/asgar/projects/placeholder/</guid>
       <description>&lt;h1 id=&#34;contents-will-come-soon-stay-tuned&#34;&gt;Contents will come soon, stay tuned&lt;/h1&gt;</description>
     </item>
   </channel>
