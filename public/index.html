@@ -74,7 +74,7 @@
 <meta property="og:url" content="http://localhost:1313/asgar/" />
 
 
-<meta property="og:updated_time" content="2025-12-26T00:00:00Z" />
+<meta property="og:updated_time" content="2026-01-01T00:00:00Z" />
 
 
 <link rel="sitemap" type="application/xml" title="Sitemap" href='http://localhost:1313/asgar/sitemap.xml' />
@@ -220,6 +220,10 @@
                 
                         
                 
+                        
+                
+                        
+                
             
         
         
@@ -240,6 +244,10 @@
                 
             
                 
+                
+                        
+                
+                        
                 
                         
                 
@@ -263,7 +271,7 @@
                         </li>
                         
                             <li class="bullet">
-                                <a href="http://localhost:1313/asgar/posts/post-2025-12-26/">Brand New to Cyber?</a>
+                                <a href="http://localhost:1313/asgar/posts/post-2026-01-02/">Identifying Geolocation of Attacker using Wireshark</a>
                             </li>
                         
                     
@@ -277,6 +285,10 @@
                 
             
                 
+                
+                        
+                
+                        
                 
                         
                 
@@ -305,6 +317,10 @@
                 
             
                 
+                
+                        
+                
+                        
                 
                         
                 
@@ -424,7 +440,7 @@
 <p class="footnote">
 powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a target="_blank" href="https://github.com/lukeorth/poison">poison</a>
     <br>
-    &copy; 2025 Asgar. All rights reserved.
+    &copy; 2026 Asgar. All rights reserved.
 </p>
 
   </div>
@@ -434,6 +450,69 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
                 <div class="posts">
     
     
+    <article class="post">
+        <div class="info">
+  <h1 class="post-title">
+    <a href="http://localhost:1313/asgar/posts/post-2026-01-02/">Identifying Geolocation of Attacker using Wireshark</a>
+  </h1>
+
+  <div class="headline">
+    <div>
+      
+      
+      <time datetime=" 2026-01-01T00:00:00Z" class="post-date">
+        January 1, 2026
+      </time>
+      
+      <span> - </span>
+      <span class="reading-time">
+        
+          
+        
+
+        <span>2 mins read</span>
+      </span>
+    </div>
+
+    
+    <ul class="tags">
+      
+      <li class="tag-OSINT">
+        <a href="http://localhost:1313/asgar/tags/osint">OSINT</a>
+      </li>
+      
+      <li class="tag-Network Forensics">
+        <a href="http://localhost:1313/asgar/tags/network-forensics">Network Forensics</a>
+      </li>
+      
+    </ul>
+    
+  </div>
+
+  
+  
+
+  
+</div>
+
+        
+        <h5 id="forensic-context">Forensic Context</h5>
+<p>This walkthrough uses the <code>WebStrike</code> scenario from CyberDefenders.</p>
+<p><strong>Artifact:</strong> PCAP file containing network traffic<br>
+<strong>Goal:</strong> Identify the attacker&rsquo;s geographic location</p>
+<p><strong>Note:</strong> To learn how to acquire PCAP files, see DocuSign&rsquo;s documentation on <a href="https://support.docusign.com/s/articles/How-to-do-a-Packet-Capture-PCAP?language=en_US" target="_blank">How to do a Packet Capture (PCAP)</a>.</p>
+<p>First, establish the victim IP. You can identify your own IP using:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>curl ifconfig.me
+</span></span></code></pre></div><p>Or via <a href="https://whatismyipaddress.com" target="_blank">What Is My IP</a>.</p>
+<h5 id="finding-the-attacker-ip">Finding the Attacker IP</h5>
+<p>With the victim IP established, identify network conversations in Wireshark: <code>Statistics → Conversations</code>.</p>
+        
+        <div class="read-more-link">
+            <a href="/asgar/posts/post-2026-01-02/">Read More…</a>
+        </div>
+        
+        
+    </article>
     <article class="post">
         <div class="info">
   <h1 class="post-title">
