@@ -48,7 +48,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     # signal_url = "https://signal.org"
     # bluesky_url = "https://bsky.app"
 
-    buymeacoffee_url = "https://buymeacoffee.com/lanceterminal"
+    buymeacoffee_url = "https://github.com/sponsors/lance-terminal"
 
    # NOTE: If you don't want to use RSS, comment or delete the following lines
     # Adds an RSS icon to the end of the socials which links to {{ .Site.BaseURL }}/index.xml

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/post-2026-01-01.md",
+                "file": "content/about/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "post-2026-01-01"
+              "title": "_index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/post-2026-01-01.md",
+                "file": "content/about/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for post-2026-01-01"
+              "title": "Backlinks for _index"
             }
           },
           {
@@ -184,12 +184,12 @@
   },
   "active": "dac6806992c15b54",
   "lastOpenFiles": [
-    "static/attachments/png-post-2025-12-30.png",
     "content/posts/post-2026-01-01.md",
+    "content/about/_index.md",
+    "static/attachments/png-post-2025-12-30.png",
     "content/posts/post-2025-12-26.md",
     "static/attachments/post-2026-01-01/anomalies.png",
     "content/projects/placeholder.md",
-    "content/about/_index.md",
     "content/posts/post-2026-01-08.md",
     "static/attachments/post-2026-01-08/VT-04-Files-Dropped.png",
     "static/attachments/post-2026-01-08/VT-03-C2.png",
