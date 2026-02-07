@@ -6,8 +6,15 @@
     <description>Recent content in Tags on Asgar</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/asgar/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>-</title>
+      <link>http://localhost:1313/asgar/tags/-/</link>
+      <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/asgar/tags/-/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Network Forensics</title>
       <link>http://localhost:1313/asgar/tags/network-forensics/</link>
@@ -20,13 +27,6 @@
       <link>http://localhost:1313/asgar/tags/osint/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/asgar/tags/osint/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Career</title>
-      <link>http://localhost:1313/asgar/tags/career/</link>
-      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/asgar/tags/career/</guid>
       <description></description>
     </item>
   </channel>
